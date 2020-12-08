@@ -2,6 +2,7 @@
 
 ### Author information
 
+<meta name="yandex-verification" content="3e5d02bdcedf343b" />
 <h3 id="author" title="GossJS">Stepan Makhorin</h3>
 
 #### Group: P41071
